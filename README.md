@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. HACKED TERMINAL BROADCAST (Animated Typing) -->
-<a href="YOUR_LAUGH_TALE_LINK">
+<a href="https://rahul-one-piece-portfolio.onrender.com">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=40&lines=[!]+WARNING:+MARINE+DATABASE+BREACHED;[+]+ACCESSING+YONKO+FILES...;[+]+TARGET+FOUND:+RAHUL+SONAWANE;>>>+THE+NEW+ERA+HAS+BEGUN" alt="Hacking Terminal" />
 </a>
 
@@ -19,8 +19,6 @@
     <td align="center" valign="middle" style="border: none; width: 35%;">
       <img src="https://media.tenor.com/3odQw0NS2ZIAAAAi/one-piece-op.gif" width="180" style="border-radius: 50%; border: 4px solid #EAB308; box-shadow: 0 0 30px rgba(234, 179, 8, 0.4);" alt="Captain Avatar" />
     </td>
-    
-    <!-- RIGHT: ANIMATED PIRATE INFO -->
     <td align="left" valign="middle" style="border: none; width: 65%;">
       <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=800&size=70&duration=5000&pause=2000&color=EAB308&vCenter=true&width=600&height=90&lines=Rahul+Sonawane;The+Next+Pirate+King" alt="Name" />
       <br/>
