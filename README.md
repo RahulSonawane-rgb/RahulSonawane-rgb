@@ -21,7 +21,7 @@
     </td>
     <!-- RIGHT: ANIMATED PIRATE INFO -->
     <td align="left" valign="middle" style="border: none; width: 65%;">
-      <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=800&size=70&duration=5000&pause=2000&color=EAB308&vCenter=true&width=600&height=90&lines=Rahul+Sonawane;The+Next+Pirate+King" alt="Name" style="max-width: 100%; height: auto;" />
+      <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=800&size=70&duration=5000&pause=2000&color=EAB308&vCenter=true&width=600&height=90&lines=Rahul+Sonawane;The+Next+Pirate" alt="Name" style="max-width: 100%; height: auto;" />
       <br/>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=c9d1d9&vCenter=true&width=600&height=35&lines=Role:+Full+Stack+Software+Engineer;Crew:+Looking+for+a+legendary+team;Goal:+Finding+the+One+Piece+(Perfect+UX)" alt="Details" style="max-width: 100%; height: auto;" />
       <br/>
@@ -51,7 +51,7 @@
     <td align="center" style="border: none; width: 33%;">
       <h3 style="color: #DC2626;">🛡️ Armament</h3>
       <i>Backend / DB</i><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=2" style="max-width: 100%; height: auto;" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&perline=2" style="max-width: 100%; height: auto;" />
     </td>
     <td align="center" style="border: none; width: 33%;">
       <h3 style="color: #9333ea;">👑 Conqueror's</h3>
