@@ -4,7 +4,7 @@
 <a href="https://rahul-one-piece-portfolio.onrender.com">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=40&lines=[!]+WARNING:+MARINE+DATABASE+BREACHED;[+]+ACCESSING+YONKO+FILES...;[+]+TARGET+FOUND:+RAHUL+SONAWANE;>>>+THE+NEW+ERA+HAS+BEGUN" alt="Hacking Terminal" style="max-width: 100%; height: auto;" />
 </a>
-
+ 
 <br/>
 
 <!-- 2. CINEMATIC BANNER (Epic Wano/Ocean Aesthetic) -->
