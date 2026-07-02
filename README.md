@@ -6,7 +6,7 @@
 </a>
  
 <br/>
-
+ 
 <!-- 2. CINEMATIC BANNER (Epic Wano/Ocean Aesthetic) -->
 <img src="https://media1.tenor.com/m/6ftWUtjeBfQAAAAC/luffy.gif" style="width: 100%; max-width: 600px; border-radius: 12px; border: 2px solid #333;" alt="Cinematic Banner" />
 
